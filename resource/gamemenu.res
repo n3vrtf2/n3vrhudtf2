@@ -44,7 +44,7 @@
 	}
 	"ReplayBrowserButton"
 	{
-		"label" "#GameUI_GameMenu_ReplayDemos"
+		"label" "n3vrHUD"
 		"command" "engine replay_reloadbrowser"
 		"subimage" "glyph_tv"
 	}
