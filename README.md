@@ -15,12 +15,15 @@ The Materials Folder contains the background for the main menu and sometimes it 
 
 Feedback
 ·If u want me to add anything or change something in my hud, u should do this
+
 ·Leave a comment on my steam profile - steamcommunity.com/id/controljolson  or
 
 ==========
 Credits
 · raysfire/rays :3 - Inspired me to kinda edit huds cause his hud is amazing and i wanted to change some stuff :>
+
 · communityhud/flamehud - Using his scoreboard cause i'm lazy sry :(
+
 · omp - Also Inspired me to edit/make huds cause of his amazing omphud :>
 
 
