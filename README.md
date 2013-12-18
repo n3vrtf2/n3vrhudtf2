@@ -5,7 +5,7 @@ A Hud made by me with help from rayshud and doodle's hud guide
 
 ==========
 
-Screenshot - http://imgur.com/a/ybOdg | OUT NOW!!! :>
+Screenshot - http://imgur.com/a/ybOdg | OUTDATED 15/12/13
 
 ==========
 
