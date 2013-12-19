@@ -81,11 +81,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"9999"		[$WIN32]
-		"ypos"			"9999 "	[$WIN32]
-		"zpos"			"1"		
-		"wide"			"109"
-		"tall"			"50"
+		"xpos"			"0"		[$WIN32]
+		"ypos"			"450"	[$WIN32]
+		"zpos"			"-9999"		
+		"wide"			"100"
+		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
@@ -94,16 +94,22 @@
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
 		"teambg_3"			"../hud/character_blue_bg_clipped"
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef_clipped"
+		
+		"src_corner_height"		"20"				// pixels inside the image
+		"src_corner_width"		"20"
+		"draw_corner_height"	"0"
+		"draw_corner_width"		"0"
 	}
+	
 
 	"classmodelpanel"
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"r185"	[$WIN32]
-		"ypos"			"r148"	[$WIN32]
-		"zpos"			"2"		
+		"xpos"			"10"	[$WIN32]
+		"ypos"			"r150"	[$WIN32]
+		"zpos"			"9999"		
 		"wide"			"75"
 		"tall"			"150"
 		"autoResize"	"0"

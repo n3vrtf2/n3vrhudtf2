@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"7"
-		"ypos"			"7"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"4"
 		"wide"			"18"
 		"tall"			"18"
@@ -17,8 +17,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"5"
-		"ypos"			"5"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"3"
 		"wide"			"22"
 		"tall"			"22"
@@ -30,9 +30,9 @@
 	"BuildingStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"1"
-		"ypos"			"2"
+		"fieldName"		"BuildingStatusHealthImageBG"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"3"
 		"wide"			"28"
 		"tall"			"28"
@@ -55,17 +55,37 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
-	"PlayerStatusHealthValue"
+	"PlayerStatusHealthValueFreezePanel"
 	{
-		"ControlName"	"Label"
-		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"75"
-		"ypos"			"32"
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueFreezePanel"
+		"xpos"			"3"
+		"ypos"			"3"
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"26"
+		"tall"			"26"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"font" 			"CerbeticaBold16"
+		"textAlignment"	"center"		
+	}
+	"PlayerStatusHealthValueFreezeBackground"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueFreezeBackground"
+		"xpos"			"4"
+		"ypos"			"4"
+		"zpos"			"5"
+		"wide"			"26"
+		"tall"			"26"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"font" 			"CerbeticaBold16"
+		"fgcolor"		"0 0 0 255"
 		"textAlignment"	"center"	
-	}								
+	}			
+	
+
 }
