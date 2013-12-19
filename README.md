@@ -18,7 +18,7 @@ Feedback
 
 ·If u want me to add anything or change something in my hud, u should do this
 
-·Leave a comment on my steam profile - steamcommunity.com/id/controljolson
+·Leave a comment on my steam profile - steamcommunity.com/id/n3vrHUD
 
 ==========
 Credits
