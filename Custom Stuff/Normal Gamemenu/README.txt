@@ -1,0 +1,1 @@
+Drag the Gamemenu.res file into your resource folder
