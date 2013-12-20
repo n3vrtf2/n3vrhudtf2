@@ -262,7 +262,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor"		"255 0 255 255"
+				"fgcolor"		"235 235 235 255"
 				
 				if_mvm
 				{
