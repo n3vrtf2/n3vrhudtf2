@@ -7,7 +7,7 @@
 				
 		"xpos"					"c-125"
 		"ypos"					"0"
-		"wide"					"250"
+		"wide"					"f0"
 		"tall"					"480"
 
 		"team1_player_base_offset_x"		"-75"
@@ -25,6 +25,8 @@
 			"wide"			"50"
 			"tall"			"33"
 			"zpos"			"1"
+			"tabPosition"	"0"
+
 			
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
@@ -136,8 +138,8 @@
 				"src_corner_height"	"22"				// pixels inside the image
 				"src_corner_width"	"22"
 			
-				"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-				"draw_corner_height" 	"3"
+				"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+				"draw_corner_height" 	"0"
 				
 				if_mvm
 				{
@@ -245,26 +247,26 @@
 		}		
 	}
 
-	"HudTournamentBG"
+	"HudTournamentBackground"
 	{
 		"ControlName"		"ScalableImagePanel"
-		"fieldName"		"HudTournamentBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		"fieldName"		"HudTournamentBackground"
+		"xpos"			"-50"
+		"ypos"			"30"
 		"zpos"			"-1"
 		"wide"			"250"
-		"tall"			"55"
+		"tall"			"18"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
 		
-		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 		
 		if_mvm
 		{
@@ -276,8 +278,8 @@
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
 		"font"			"HudFontSmall"
-		"xpos"			"5"
-		"ypos"			"3"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"1"
 		"wide"			"240"
 		"tall"			"19"
@@ -299,11 +301,11 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBLUEBG"
-		"xpos"			"5"
-		"ypos"			"23"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"120"
-		"tall"			"16"
+		"wide"			"125"
+		"tall"			"26"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -313,8 +315,8 @@
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
 		
-		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"4"	
+		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"5"	
 		
 		if_mvm
 		{
@@ -325,12 +327,12 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"HudFontSmallest"
-		"xpos"			"12"
-		"ypos"			"24"
+		"font"			"WeblySleek24"
+		"xpos"			"4"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"65"
-		"tall"			"15"
+		"tall"			"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -348,12 +350,12 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"WeblySleek16"
 		"xpos"			"56"
-		"ypos"			"24"
+		"ypos"			"3"
 		"zpos"			"1"
 		"wide"			"65"
-		"tall"			"15"
+		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -373,10 +375,10 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentREDBG"
 		"xpos"			"125"
-		"ypos"			"23"
+		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"120"
-		"tall"			"16"
+		"wide"			"125"
+		"tall"			"26"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -386,8 +388,8 @@
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
 		
-		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"4"	
+		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"5"	
 		
 		if_mvm
 		{
@@ -398,12 +400,12 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"HudFontSmallest"
-		"xpos"			"175"
-		"ypos"			"24"
+		"font"			"WeblySleek24"
+		"xpos"			"180"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"65"
-		"tall"			"15"
+		"tall"			"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -421,12 +423,12 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"WeblySleek16"
 		"xpos"			"130"
-		"ypos"			"24"
+		"ypos"			"3"
 		"zpos"			"1"
 		"wide"			"65"
-		"tall"			"15"
+		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -444,20 +446,20 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"TFFontSmall"
+		"font"			"WeblySleek14"
 		"fgcolor"		"TanLight"
-		"xpos"			"8"
-		"ypos"			"42"
+		"xpos"			"0"
+		"ypos"			"16"
 		"zpos"			"1"
 		"wide"			"250"
-		"tall"			"35"
+		"tall"			"37"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
-		"textAlignment"		"north-west"
+		"textAlignment"		"center"
 		
 		if_mvm
 		{
@@ -470,37 +472,59 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBGHelp"
 		"xpos"			"0"
-		"ypos"			"51"
+		"ypos"			"49"
 		"zpos"			"-1"
 		"wide"			"250"
-		"tall"			"17"
+		"tall"			"12"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_brown"
 
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
 		
-		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" "0"	
 		
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
+	
+	"HelpBackground"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"ScoreboardBackground"
+		"xpos"			"5"
+		"ypos"			"26"
+		"zpos"			"-1"
+		"wide"			"241"
+		"tall"			"18"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 0 0 100"
+
+		
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+	
 	"TournamentInstructionsLabel"
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"TFFontSmall"
+		"font"			"WeblySleek12"
 		"xpos"			"0"
-		"ypos"			"54"
+		"ypos"			"42"
 		"wide"			"250"
-		"tall"			"10"
+		"tall"			"13"
 		"zpos"			"1"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -512,44 +536,36 @@
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"WeblySleekBold16"
 			"xpos"			"155"
 			"ypos"			"105"
 			"wide"			"190"
-			"tall"			"12"
+			"tall"			"16"
 			"zpos"			"3"
 		}
 	}
 	
-	"TournamentInstructionsLabelShadow"
-	{	
-		"ControlName"		"CExLabel"
-		"fieldName"		"TournamentInstructionsLabelShadow"
-		"font"			"TFFontSmall"
+	"InstructionsBackground"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"InstructionBackground"
 		"xpos"			"0"
-		"ypos"			"54"
+		"ypos"			"50"
+		"zpos"			"-1"
 		"wide"			"250"
-		"tall"			"10"
-		"zpos"			"2"
-		"autoResize"		"0"
+		"tall"			"16"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"wrap"			"0"
-		"labelText"		"%readylabel%"
-		"textAlignment"		"center"
+		"enabled"		"0"
+		"fillcolor"		"0 0 0 100"
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
-			"xpos"			"156"
-			"ypos"			"106"
-			"wide"			"190"
-			"tall"			"12"
-			"visible"		"1"
-			"fgcolor"		"Black"
+			"visible"		"0"
 		}
 	}
+	
+
 	
 	"CountdownBG"
 	{
@@ -570,14 +586,14 @@
 		"src_corner_width"	"23"
 		
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_height" "5"	
 	}
 
 	"CountdownLabel"
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"HudFontGiant"
+		"font"			"WeblySleek24"
 		"xpos"			"230"
 		"ypos"			"r55"
 		"wide"			"40"
@@ -596,7 +612,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"HudFontGiant"
+		"font"			"WeblySleek24"
 		"xpos"			"231"
 		"ypos"			"r54"
 		"wide"			"40"

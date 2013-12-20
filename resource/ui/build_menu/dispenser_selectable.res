@@ -11,4 +11,9 @@
 	{
 		"icon"			"hud_menu_dispenser_build"
 	}
+		
+	"NumberLabelShadow"
+	{	
+		"labelText"		"2"
+	}
 }
