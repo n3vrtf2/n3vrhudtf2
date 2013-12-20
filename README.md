@@ -8,8 +8,9 @@ A Hud made by me with help from rayshud and doodle's hud guide
 Screenshot - http://imgur.com/a/ybOdg | OUTDATED 15/12/13
 
 ==========
+IMPORTANT FOR U
 
-U must disable cl_hud_minmode 0
+U must put this into your console cl_hud_minmode 0
 
 ==========
 
@@ -17,7 +18,7 @@ Feedback
 
 ·If u want me to add anything or change something in my hud, u should do this
 
-·Leave a comment on my steam profile - steamcommunity.com/id/controljolson
+·Leave a comment on my steam profile - steamcommunity.com/id/n3vrHUD
 
 ==========
 Credits
