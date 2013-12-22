@@ -1,64 +1,14 @@
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
-	
-	//Change visible and enabled to "1" on "HPBorderPanel1" and "HPBorderPanel2" for team-colored cross.
-	
-	"HPBorderPanel1"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"		"HPBackgroundPanel1"
-		"xpos"			"119"
-		"ypos"			"31"
-		"zpos"			"2"
-		"wide"			"26"
-		"tall"	 		"64"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible" "1" 
-		"enabled" "1"
-		"image"			"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-		
-		"src_corner_height"		"40"				// pixels inside the image
-		"src_corner_width"		"40"			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 		"0"	
-	}
-	"HPBorderPanel2"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"		"HPBackgroundPanel2"
-		"xpos"			"100"
-		"ypos"			"50"
-		"zpos"			"2"
-		"wide"			"64"
-		"tall"	 		"26"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible" "1"
-		"enabled" "1"
-		"image"			"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-		
-		"src_corner_height"		"40"				// pixels inside the image
-		"src_corner_width"		"40"			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 		"0"	
-	}
-	
 	"HudPlayerHealth"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-271"	
-		"ypos" 			"c43"
+		"xpos"			"c-288"		
+		"ypos"			"c45"	
+		"xpos"			"32"
+		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
 		"visible"		"1"
@@ -71,26 +21,25 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"104"
-		"ypos"			"35"
+		"xpos"			"90"
+		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"56"
-		"tall"			"56"
-		"fgcolor_override"	"0 0 0 255"
+		"wide"			"70"
+		"tall"			"70"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"alpha"			"255"
+		"alpha"			"0"
 	}		
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"102"
-		"ypos"			"33"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"3"
-		"wide"			"60"
-		"tall"			"60"
+		"wide"			"55"
+		"tall"			"55"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
@@ -100,23 +49,22 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"99"
-		"ypos"			"30"
-		"zpos"			"-1"
-		"wide"			"66"	
-		"tall"			"66"	
+		"xpos"			"116"
+		"ypos"			"18"
+		"zpos"			"2"
+		"wide"			"68"	
+		"tall"			"68"	
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"
-		"fillcolor"		"0 0 0 0"
+		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"-18"
-		"ypos"			"12"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"100"
@@ -124,15 +72,15 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CerbeticaBold24"
+		"font"			"CerbeticaBold56"
 		"fgcolor"		"Health Normal"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"-17"
-		"ypos"			"13"
+		"xpos"			"2"
+		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"100"
@@ -140,14 +88,14 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CerbeticaBold24"
+		"font"			"CerbeticaBold56"
 		"fgcolor"		"TransparentBlack"
 	}			
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusBleedImage"
-		"xpos"			"100"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"32"
@@ -188,6 +136,22 @@
 		"image"			"../vgui/marked_for_death"
 		"fgcolor"		"TanDark"
 	}
+	"PlayerStatusMarkedForDeathSilentImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusMarkedForDeathSilentImage"
+		"xpos"			"100"
+		"ypos"			"0"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../vgui/marked_for_death"
+		"fgcolor"		"TanDark"	
+	}
+	
 	"PlayerStatus_MedicUberBulletResistImage"
 	{
 		"ControlName" 	"ImagePanel"
@@ -283,20 +247,20 @@
 		"image"			"../HUD/defense_buff_fire_blue"
 		"fgcolor" 		"TanDark"
 	}
-	"PlayerStatusMarkedForDeathSilentImage"
+	
+		"PlayerStatus_WheelOfDoom"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusMarkedForDeathSilentImage"
+		"fieldName"		"PlayerStatus_WheelOfDoom"
 		"xpos"			"100"
 		"ypos"			"0"
 		"zpos"			"7"
-		"wide"			"31"
-		"tall"			"31"
+		"wide"			"32"
+		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"image"			"../vgui/marked_for_death"
+		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"
 	}
 }
-

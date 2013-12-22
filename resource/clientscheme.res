@@ -23,15 +23,15 @@ Scheme
 	
 		//rayshud colors
 	
-		"Ammo In Clip" 		 "48 255 48 255"
-		"Ammo In Reserve" 		 "72 255 255 255"
-		"Ammo In Clip Low"						"255 42 130 255"
+		"Ammo In Clip" 		 "218 112 214 255"
+		"Ammo In Reserve" 		 "255 165 0 255"
+		"Ammo In Clip Low" 		 "255 42 130 255"
 		"Ammo In Reserve Low" 		 "255 128 28 255"
 		
 		//refers to watching stvs/killcam shots
 		"Spec Health Normal" 		 "235 226 202 255"
-		"Spec Health Buff" 		 "48 255 48 255"			
-		"Spec Health Hurt" 		 "255 153 0 255"
+		"Spec Health Buff" 		 "0 255 255 255"			
+		"Spec Health Hurt" 		 "255 0 0 255"
 		
 		//alternate colors for flashing values
 		"Alternate Spec Health Normal"						"235 226 202 255"
@@ -40,8 +40,8 @@ Scheme
 		
 		//refers to player health/targetids
 		"Health Normal" 		 "235 226 202 255"
-		"Health Buff" 		 "48 255 48 255"
-		"Health Hurt" 		 "255 153 0 255"
+		"Health Buff" 		 "0 255 255 255"
+		"Health Hurt" 		 "255 0 0 255"
 		
 		//alternate colors for flashing values
 		"Alternate Health Normal"						"235 226 202 255"
@@ -53,9 +53,9 @@ Scheme
 		//solid color uber disabled by default; to enable, uncomment lines in hudanimations_tf.txt
 		"Solid Color Uber"						"255 50 255 255"
 		
-		"Flashing Uber Color1"					"255 165 0 255"
-		"Flashing Uber Color2"					"255 69 0 255"
-		//"Ubercharge Amount" 		 "48 255 48 255" // disabled temporarily; currently controlled by ammo in clip color
+		"Flashing Uber Color1" 		 "255 69 0 255"
+		"Flashing Uber Color2" 		 "255 165 0 255"
+		//"Ubercharge Amount" 		 "218 112 214 255" // disabled temporarily; currently controlled by ammo in clip color
 	
 		"Heal Numbers" 		 "48 255 48 255"
 		"Damage Numbers" 		 "255 255 0 255"
@@ -497,13 +497,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"antialias" 	"1"
 			}
 			"2"
 			{
-				"name"		"Cerbetica_bold"
+				"name"		"LetterGothicStd-Slanted"
 				"tall"		"72"
 				"antialias" 	"1"
 			}
@@ -757,7 +757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"tall_lodef"	"80"
 				"additive"	"0"
@@ -765,7 +765,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"44"
 				"tall_hidef"	"120"
 				"additive"	"0"
@@ -773,21 +773,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "1"
@@ -797,7 +797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "1"
@@ -808,7 +808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -819,7 +819,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -829,7 +829,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -839,7 +839,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -849,7 +849,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -859,7 +859,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -869,7 +869,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -879,7 +879,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -889,7 +889,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -899,7 +899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -909,7 +909,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -919,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -929,7 +929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -939,7 +939,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -949,7 +949,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -959,7 +959,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -969,7 +969,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -979,7 +979,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -989,7 +989,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -999,7 +999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -1009,7 +1009,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1019,7 +1019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1029,7 +1029,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1039,7 +1039,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1049,7 +1049,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -1091,7 +1091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1101,7 +1101,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1159,7 +1159,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1169,7 +1169,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1180,7 +1180,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1189,7 +1189,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1198,7 +1198,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1283,7 +1283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1292,7 +1292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1302,7 +1302,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"LetterGothicStd-Slanted"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1311,7 +1311,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"LetterGothicStd-Slanted"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1321,7 +1321,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1342,7 +1342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1352,7 +1352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1363,7 +1363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1388,7 +1388,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"LetterGothicStd"
 				"tall"			"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1398,7 +1398,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"LetterGothicStd"
 				"tall"			"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -1408,7 +1408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -1418,7 +1418,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"LetterGothicStd"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1442,7 +1442,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1455,7 +1455,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1467,7 +1467,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1479,7 +1479,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1493,7 +1493,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1508,7 +1508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1518,7 +1518,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1528,7 +1528,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1537,7 +1537,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1546,7 +1546,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1559,7 +1559,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1570,7 +1570,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1582,7 +1582,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1636,7 +1636,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1736,7 +1736,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1749,7 +1749,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1761,7 +1761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1814,7 +1814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1824,7 +1824,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -1834,7 +1834,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1862,7 +1862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -1872,7 +1872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1912,7 +1912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1922,7 +1922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1933,7 +1933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -1987,7 +1987,7 @@ Scheme
 		"1"
 			{
 				
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1997,7 +1997,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2007,7 +2007,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2017,7 +2017,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2027,7 +2027,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2037,7 +2037,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2047,7 +2047,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -2057,7 +2057,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"9"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2128,7 +2128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"12"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2191,7 +2191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"11"
 				"additive"	"1"
 				"antialias" "1"
@@ -2201,7 +2201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"14"
 				"additive"	"1"
 				"antialias" "1"
@@ -2211,7 +2211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2221,7 +2221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"24"
 				"additive"	"1"
 				"antialias" "1"
@@ -2231,7 +2231,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"LetterGothicStd"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2245,7 +2245,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"LetterGothicStd-Slanted"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2256,7 +2256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"LetterGothicStd-Slanted"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2660,7 +2660,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "7"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2670,7 +2670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "8"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2680,7 +2680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "9"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2690,7 +2690,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2700,7 +2700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2710,7 +2710,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2720,7 +2720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2730,7 +2730,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "22"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2741,7 +2741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2751,7 +2751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2762,7 +2762,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2772,7 +2772,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2782,7 +2782,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2792,7 +2792,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "40"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2802,7 +2802,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2812,7 +2812,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "52"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2822,7 +2822,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "54"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2832,7 +2832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "55"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2842,7 +2842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2852,7 +2852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "60"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2862,7 +2862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "LetterGothicStd"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2872,7 +2872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2882,7 +2882,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "13"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2892,7 +2892,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2902,7 +2902,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2912,7 +2912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2922,7 +2922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "17"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2932,7 +2932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2942,7 +2942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2952,7 +2952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2963,7 +2963,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2974,7 +2974,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2985,7 +2985,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "28"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2995,7 +2995,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3005,7 +3005,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "36"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3015,7 +3015,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "42"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3025,7 +3025,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "44"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3035,7 +3035,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "46"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3045,7 +3045,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3055,7 +3055,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3065,7 +3065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "64"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3075,7 +3075,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "LetterGothicStd-Slanted"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -5406,8 +5406,25 @@ Scheme
 			"font" "resource/Cerbetica_bold.ttf"
 			"name" "Cerbetica Bold"
 		}
+		"14"
+		{
+		
+			"font" "resource/font/LetterGothicStd.ttf"
+			"name" "LetterGothicStd"
+		}
+		"15"
+		{
+		
+			"font" "resource/font/LetterGothicStd-Slanted.ttf"
+			"name" "LetterGothicStd-Slanted"
+		}
+		
+		
 
 }
+
+
+
 
 
 

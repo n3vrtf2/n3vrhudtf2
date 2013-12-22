@@ -102,7 +102,7 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"				"NoBorder"
-			"bgcolor_override"		"15 255 255 255"
+			"bgcolor_override"		"0 40 115 255"
 		}		
 	
 	"Sheet"
@@ -129,14 +129,14 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"				"NoBorder"
-			"bgcolor_override"		"15 255 255 255"
+			"bgcolor_override"		"0 40 115 255"
 		}				
 		
 		"tabskv"
 		{
 			"textinsetx"		"25"
 			"textAlignment"		"center"
-			"font"				"Cerbetica32"
+			"font"				"BigNoodleTitling32"
 			"ypos"				"50"
 			"selectedcolor"		"TanLight"
 			"unselectedcolor"	"TanDark"	
