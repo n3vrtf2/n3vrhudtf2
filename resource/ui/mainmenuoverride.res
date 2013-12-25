@@ -164,11 +164,11 @@
 		}
 		if_fullmoon
 		{
-			"image"		"../console/title_fullmoon"
+			"image"		"../console/upward"
 		}
 		if_christmas
 		{
-			"image"		"../console/background_xmas2011"
+			"image"		"../console/background_process"
 		}
 	}
 					
@@ -3441,8 +3441,21 @@
 				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
-			}				
-		}		
-	}
+		}
+				
+				
+        "nevrHUD"
+        {
+        "ControlName"	"CExButton"
+        "fieldName"		"nevrHUD"
+        "xpos"		"0"
+        "ypos"		"0"
+        "wide"		"169"
+        "tall"		"24"
+        "visible"		"1"
+        "enabled"		"1"
+        "font"		""
+        "textAlignment"	"west"
+        "paintbackground"	"1" // this needs to be 1 for bgcolor
 
 }

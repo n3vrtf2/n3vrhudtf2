@@ -19,17 +19,20 @@
 	}	
 	"PlayerStatusHealthImage"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"90"
-		"ypos"			"0"
-		"zpos"			"4"
-		"wide"			"70"
-		"tall"			"70"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-		"alpha"			"0"
+    "ControlName"	"CExLabel"
+    "fieldName"	 "CrossSign"
+    "xpos"	 "39"
+    "ypos"	 "123"	
+    "zpos"	 "5"
+    "wide"	 "29"
+    "tall"	 "38"
+    "visible"	 "1"
+    "enabled"	 "1"
+    "labelText"	 "j"
+    "textAlignment"	"center"	
+    "font"	 "Heart38"
+    //"fgcolor"	 "Garm3nWhite"
+    "fgcolor"	 "32 32 32 255"
 	}		
 	"PlayerStatusHealthImageBG"
 	{
@@ -263,4 +266,21 @@
 		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"
 	}
+	"CrossSign"
+    {
+    "ControlName"	"CExLabel"
+    "fieldName"	 "CrossSign"
+    "xpos"	 "39"
+    "ypos"	 "123"	
+    "zpos"	 "5"
+    "wide"	 "29"
+    "tall"	 "38"
+    "visible"	 "1"
+    "enabled"	 "1"
+    "labelText"	 "j"
+    "textAlignment"	"center"	
+    "font"	 "Heart38"
+    //"fgcolor"	 "Garm3nWhite"
+    "fgcolor"	 "32 32 32 255"
+    }
 }

@@ -1095,7 +1095,17 @@ Scheme
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
-			}
+	    }
+		"Heart38"
+        {
+            "1"
+            {
+            "name" "Modern Pictograms"
+            "tall" "38"
+            "additive" "0"
+            "antialias"	"1"
+            }
+            }
 		}
 		"HudClassHealth"
 		{
@@ -5418,6 +5428,11 @@ Scheme
 			"font" "resource/font/LetterGothicStd-Slanted.ttf"
 			"name" "LetterGothicStd-Slanted"
 		}
+		"16" // Heart
+        {
+        "font" "resource/modernpics.otf"
+        "name" "Modern Pictograms"
+        }
 		
 		
 
