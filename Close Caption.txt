@@ -1,2 +1,0 @@
-To Enable Close Caption go to scripts - hudlayout.res then find "HudCloseCaption" then the number beside the visible and enabled word is 0, Just change it to
-enable close caption. 
