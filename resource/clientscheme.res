@@ -2902,7 +2902,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Cerbetica"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"

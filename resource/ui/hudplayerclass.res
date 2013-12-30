@@ -81,11 +81,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"0"		[$WIN32]
-		"ypos"			"450"	[$WIN32]
-		"zpos"			"-9999"		
-		"wide"			"100"
-		"tall"			"25"
+		"xpos"			"9999"		[$WIN32]
+		"ypos"			"9999 "	[$WIN32]
+		"zpos"			"1"		
+		"wide"			"109"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
@@ -94,22 +94,16 @@
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
 		"teambg_3"			"../hud/character_blue_bg_clipped"
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef_clipped"
-		
-		"src_corner_height"		"20"				// pixels inside the image
-		"src_corner_width"		"20"
-		"draw_corner_height"	"0"
-		"draw_corner_width"		"0"
 	}
-	
 
 	"classmodelpanel"
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"10"	[$WIN32]
-		"ypos"			"r150"	[$WIN32]
-		"zpos"			"9999"		
+		"xpos"			"r820"	[$WIN32]
+		"ypos"			"r155"	[$WIN32]
+		"zpos"			"2"		
 		"wide"			"75"
 		"tall"			"150"
 		"autoResize"	"0"
@@ -258,13 +252,13 @@
 			}
 			"Pyro"
 			{
-				"fov"			"20"
-				"angles_x"		"-5"
-				"angles_y"		"150"
+				"fov"			"10"
+				"angles_x"		"-10"
+				"angles_y"		"195"
 				"angles_z"		"0"
-				"origin_x"		"175"
-				"origin_y"		"-5"
-				"origin_z"		"-90"
+				"origin_x"		"140"
+				"origin_y"		"-2"
+				"origin_z"		"-82"
 			}
 			"Spy"
 			{
@@ -278,9 +272,9 @@
 			}
 			"Engineer"
 			{
-				"fov"			"20"
+				"fov"			"10"
 				"angles_x"		"-10"
-				"angles_y"		"150"
+				"angles_y"		"195"
 				"angles_z"		"0"
 				"origin_x"		"140"
 				"origin_y"		"-2"
