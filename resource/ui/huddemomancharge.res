@@ -24,7 +24,7 @@
 		"ControlName" 		"CExLabel"
 		"fieldName" 		"ChargeMeterLabel"
 		"xpos" 				"0"
-		"ypos" 				"111"
+		"ypos" 				"112"
 		"zpos" 				"3"
 		"wide" 				"150"
 		"tall" 				"8"
@@ -33,11 +33,11 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"tabPosition" 		"0"
-		"labelText" 		"CHARGE"
+		"labelText" 		"PIPE OR STICKY"
 		"textAlignment" 	"center"
 		"dulltext" 		  	"0"
 		"brighttext" 	   	"0"
-		"font" 			  	"WeblySleek12"
+		"font" 			  	"Cerbetica12"
 		"fgcolor_override" 	"150 150 150 255"
 	}	
 }

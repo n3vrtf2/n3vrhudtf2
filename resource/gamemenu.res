@@ -2,42 +2,42 @@
 {
 	"ResumeGameButton"
 	{
-		"label"			"#MMenu_ResumeGame"
-		"command"		"ResumeGame"
+		"label"		"Resume game"
+		"command"	"ResumeGame"
 		"OnlyInGame"	"1"
 		"subimage" "icon_resume"
 	}
 	"QuickplayButton"
 	{
-		"label" "Multiplayer" 
+		"label" "Quickplay" 
 		"command" "quickplay"
 		"subimage" "glyph_multiplayer"
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayChangeButton"
 	{
-		"label" "#MMenu_NewGame" 
+		"label" "Quickplay" 
 		"command" "quickplay"
 		"subimage" "glyph_server"
 		"OnlyInGame" "1"
 	}
 	"PlayPVEButton"
 	{
-		"label" "Cooperative" 
+		"label" "Play MVM" 
 		"command" "playpve"
 		"subimage" "glyph_coop"
 		"OnlyAtMenu" "1"
 	}
 	"ServerBrowserButton"
 	{
-		"label" "Servers" 
+		"label" "Browse servers" 
 		"command" "OpenServerBrowser"
 		"subimage" "glyph_server_browser"
 		"OnlyAtMenu" "1"
 	} 
 	"ChangeServerButton"
 	{
-		"label" "#MMenu_ChangeServer" 
+		"label" "Change server" 
 		"command" "OpenServerBrowser"
 		"subimage" "glyph_server_browser"
 		"OnlyInGame" "1"
@@ -50,16 +50,9 @@
 	}
 	"SteamWorkshopButton"
 	{
-		"label" "Toggle 3D Model"
-		"command" "engine toggle cl_hud_playerclass_use_playermodel;hud_reloadscheme;play vo/announcer_attention.wav"
-		"subimage" "glyph_tv"
-	}
-	"VRModeButton"
-	{
-		"label" "#MMenu_VRMode_Activate"
-		"command" "engine vr_toggle"
-		"subimage" "glyph_vr"
-		"OnlyWhenVREnabled" "1"
+		"label" "Workshop"
+		"command" "engine OpenSteamWorkshopDialog"
+		"subimage" "glyph_steamworkshop"
 	}
 	"TrainingButton"
 	{
@@ -72,9 +65,10 @@
 	// These buttons get positioned by the MainMenuOverride.res	
 	"CreateServerButton"
 	{
-		"label" "Create"
+		"label" "Create server"
 		"command" "OpenCreateMultiplayerGameDialog"
 		"OnlyAtMenu" "1"
+		"tooltip" "#GameUI_GameMenu_CreateServer"
 	}
 	"GeneralStoreButton"
 	{
@@ -84,7 +78,7 @@
 	}	
 	"CharacterSetupButton"
 	{
-		"label" "Items"
+		"label" "Loadout"
 		"command" "engine open_charinfo"
 		"subimage" "glyph_items"
 	}
@@ -93,23 +87,26 @@
 	// and also are positioned by the .res file
 	"CallVoteButton"
 	{
-		"label"			"Call Vote"
-		"command"		"callvote"
+		"label"		"Vote"
+		"command"	"callvote"
 		"OnlyInGame"	"1"
 		"subimage" "icon_checkbox"
+		"tooltip" "#MMenu_CallVote"
 	}
 	"MutePlayersButton"
 	{
-		"label"			"Mute Players"
+		"label"			"Mute"
 		"command"		"OpenPlayerListDialog"
 		"OnlyInGame"	"1"
 		"subimage" "glyph_muted"
+		"tooltip" "#MMenu_MutePlayers"
 	}
 	"RequestCoachButton"
 	{
-		"label"			"Request Coach"
+		"label"			""
 		"command"		"engine cl_coach_find_coach"
 		"OnlyInGame"	"1"
 		"subimage" "icon_whistle"
+		"tooltip" "#MMenu_RequestCoach"
 	}
 }

@@ -5428,11 +5428,6 @@ Scheme
 			"font" "resource/font/LetterGothicStd-Slanted.ttf"
 			"name" "LetterGothicStd-Slanted"
 		}
-		"16" // Heart
-        {
-        "font" "resource/modernpics.otf"
-        "name" "Modern Pictograms"
-        }
 		
 		
 
