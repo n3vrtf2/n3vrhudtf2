@@ -497,13 +497,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"antialias" 	"1"
 			}
 			"2"
 			{
-				"name"		"LetterGothicStd-Slanted"
+				"name"		"Champagne & Limousines Italic"
 				"tall"		"72"
 				"antialias" 	"1"
 			}
@@ -757,7 +757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"tall_lodef"	"80"
 				"additive"	"0"
@@ -765,7 +765,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"44"
 				"tall_hidef"	"120"
 				"additive"	"0"
@@ -773,21 +773,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "1"
@@ -797,7 +797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "1"
@@ -808,7 +808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -819,7 +819,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -829,7 +829,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -839,7 +839,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -849,7 +849,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -859,7 +859,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -869,7 +869,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -879,7 +879,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -889,7 +889,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -899,7 +899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -909,7 +909,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -919,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -929,7 +929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -939,7 +939,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -949,7 +949,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -959,7 +959,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -969,7 +969,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -979,7 +979,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -989,7 +989,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -999,7 +999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -1009,7 +1009,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1019,7 +1019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1029,7 +1029,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1039,7 +1039,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1049,7 +1049,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -1091,7 +1091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1111,7 +1111,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1169,7 +1169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1179,7 +1179,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1190,7 +1190,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1199,7 +1199,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1208,7 +1208,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1293,7 +1293,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1302,7 +1302,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1312,7 +1312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd-Slanted"
+				"name"		"Champagne & Limousines Italic"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1321,7 +1321,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd-Slanted"
+				"name"		"Champagne & Limousines Italic"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1331,7 +1331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1352,7 +1352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1362,7 +1362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1373,7 +1373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1398,7 +1398,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"LetterGothicStd"
+				"name"			"Champagne & Limousines"
 				"tall"			"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1408,7 +1408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"LetterGothicStd"
+				"name"			"Champagne & Limousines"
 				"tall"			"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -1418,7 +1418,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -1428,7 +1428,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"LetterGothicStd"
+				"name"			"Champagne & Limousines"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1452,7 +1452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1465,7 +1465,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1477,7 +1477,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1489,7 +1489,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1503,7 +1503,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1518,7 +1518,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1528,7 +1528,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1538,7 +1538,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1547,7 +1547,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1556,7 +1556,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1569,7 +1569,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1580,7 +1580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1592,7 +1592,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1646,7 +1646,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1746,7 +1746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1759,7 +1759,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1771,7 +1771,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1824,7 +1824,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1834,7 +1834,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -1844,7 +1844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1872,7 +1872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -1882,7 +1882,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1922,7 +1922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1932,7 +1932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1943,7 +1943,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -1997,7 +1997,7 @@ Scheme
 		"1"
 			{
 				
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2007,7 +2007,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2017,7 +2017,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2027,7 +2027,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2037,7 +2037,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2047,7 +2047,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2057,7 +2057,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -2067,7 +2067,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"9"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2138,7 +2138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"12"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2201,7 +2201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"11"
 				"additive"	"1"
 				"antialias" "1"
@@ -2211,7 +2211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"14"
 				"additive"	"1"
 				"antialias" "1"
@@ -2221,7 +2221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2231,7 +2231,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"24"
 				"additive"	"1"
 				"antialias" "1"
@@ -2241,7 +2241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd"
+				"name"		"Champagne & Limousines"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2255,7 +2255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd-Slanted"
+				"name"		"Champagne & Limousines Italic"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2266,7 +2266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LetterGothicStd-Slanted"
+				"name"		"Champagne & Limousines Italic"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2670,7 +2670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "7"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2680,7 +2680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "8"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2690,7 +2690,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "9"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2700,7 +2700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2710,7 +2710,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2720,7 +2720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2730,7 +2730,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2740,7 +2740,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "22"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2751,7 +2751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2761,7 +2761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2772,7 +2772,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2782,7 +2782,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2792,7 +2792,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2802,7 +2802,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "40"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2812,7 +2812,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2822,7 +2822,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "52"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2832,7 +2832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "54"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2842,7 +2842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "55"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2852,7 +2852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2862,7 +2862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "60"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2872,7 +2872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd"
+				"name"		 "Champagne & Limousines"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2882,7 +2882,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2892,7 +2892,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "13"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2912,7 +2912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2922,7 +2922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2932,7 +2932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "17"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2942,7 +2942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2952,7 +2952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2962,7 +2962,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2973,7 +2973,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2984,7 +2984,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2995,7 +2995,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "28"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3005,7 +3005,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3015,7 +3015,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "36"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3025,7 +3025,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "42"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3035,7 +3035,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "44"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3045,7 +3045,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "46"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3055,7 +3055,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3065,7 +3065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3075,7 +3075,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "64"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3085,7 +3085,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "LetterGothicStd-Slanted"
+				"name"		 "Champagne & Limousines Italic"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -5427,6 +5427,18 @@ Scheme
 		
 			"font" "resource/font/LetterGothicStd-Slanted.ttf"
 			"name" "LetterGothicStd-Slanted"
+		}
+		"16"
+		{
+		
+			"font" "resource/font/Champagne & Limousines.ttf"
+			"name" "Champagne & Limousines"
+		}
+		"17"
+		{
+		
+			"font" "resource/font/Champagne & Limousines Italic.ttf"
+			"name" "Champagne & Limousines Italic"
 		}
 		
 		
